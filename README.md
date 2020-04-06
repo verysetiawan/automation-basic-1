@@ -24,6 +24,11 @@ To run this repository, you need some python library installed on your computer.
             <li>source auto1env/bin/activate</li>
             <li>pip install -r requirement</li>
         </ul>
+     <li>Editing script auto1.py</li>
+        <ul>
+            <li>open script python auto1.py with text editor</li>
+            <li>change the ip address with yours</li>
+       </ul>
     <li>Run the python script</li>
         <ul>
             <li>python3 auto1.py</li>
